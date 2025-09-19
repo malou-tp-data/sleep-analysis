@@ -13,7 +13,7 @@
 ## Results  
 
 ### Sleep Hours distribution
-![Sleep Distribution](figures/distribution_sleep_hours.png)
+![Sleep Distribution](figures/distribution_sleeping_hours.png)
 
 ### Sleep Hours vs N-Back Accuracy (scatter)
 ![Scatter Sleep vs Performance](figures/sleep_vs_performance.png)
