@@ -12,14 +12,14 @@
 
 ## Results  
 
-### Sleep Hours distribution  
-![Sleep Distribution](figures/distribution_sleep_hours.png)  
+### Sleep Hours distribution
+![Sleep Distribution](figures/distribution_sleep_hours.png)
 
-### Sleep Hours vs N-Back Accuracy (scatter)  
-![Scatter Sleep vs Performance](figures/sleep_vs_performance.png)  
+### Sleep Hours vs N-Back Accuracy (scatter)
+![Scatter Sleep vs Performance](figures/sleep_vs_performance.png)
 
-### Linear Trend (regression)  
-![Linear Trend](figures/sleep_vs_N_Back_Accuracy_trend.png)  
+### Linear Trend (regression)
+![Linear Trend](figures/sleep_vs_n_back_accuracy_trend.png)
 
 **Correlation Sleep_Hours vs N_Back_Accuracy = -0.118**  
 
