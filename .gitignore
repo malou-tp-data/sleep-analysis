@@ -1,8 +1,20 @@
+# --- OS / système ---
 .DS_Store
+
+# --- Python ---
 __pycache__/
 *.pyc
+
+# --- Environnements virtuels ---
 venv/
 .venv/
+
+# --- Logs ---
+*.log
+
+# --- Résultats générés automatiquement ---
+results/*.txt
+
 
 
 
