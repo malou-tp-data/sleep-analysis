@@ -15,13 +15,13 @@
 ## Results (Main)  
 
 ### Sleep Hours distribution
-![Sleep Distribution](figures/distribution_sleeping_hours.png)
+<img src="figures/distribution_sleeping_hours.png" alt="Sleep Distribution" width="400"/>
 
 ### Sleep Hours vs N-Back Accuracy (scatter)
-![Scatter Sleep vs Performance](figures/sleep_vs_performance.png)
+<img src="figures/sleep_vs_performance.png" alt="Scatter Sleep vs Performance" width="400"/>
 
 ### Linear Trend (regression)
-![Linear Trend](figures/sleep_vs_n_back_accuracy_trend.png)
+<img src="figures/sleep_vs_n_back_accuracy_trend.png" alt="Linear Trend" width="400"/>
 
 **Correlation Sleep_Hours vs N_Back_Accuracy = -0.118**  
 
@@ -40,24 +40,24 @@ Therefore, while sleep is crucial for overall cognitive health, this analysis sh
 ## Additional Results  
 
 ### Sleep Hours vs Stroop Reaction Time
-![Sleep vs Stroop](figures/sleep_vs_stroop.png)
+<img src="figures/sleep_vs_stroop.png" alt="Sleep vs Stroop" width="400"/>
 
 ### Sleep Hours vs PVT Reaction Time
-![Sleep vs PVT](figures/sleep_vs_pvt.png)
+<img src="figures/sleep_vs_pvt.png" alt="Sleep vs PVT" width="400"/>
 
 ### Sleep Hours vs N-Back Accuracy (check)
-![N-Back vs Sleep (check)](figures/sleep_vs_nback_check.png)
+<img src="figures/sleep_vs_nback_check.png" alt="N-Back vs Sleep (check)" width="400"/>
 
 ### N-Back Accuracy by Gender
-![N-Back by Gender](figures/nback_by_gender.png)
+<img src="figures/nback_by_gender.png" alt="N-Back by Gender" width="400"/>
 
 ### N-Back Accuracy by Age Group
-![N-Back by Age Group](figures/nback_by_age_group.png)
+<img src="figures/nback_by_age_group.png" alt="N-Back by Age Group" width="400"/>
 
 ### Partial effect of Sleep Hours (Multiple Regression)
-![Partial Sleep Effect](figures/nback_vs_sleep_partial_numpy.png)
+<img src="figures/nback_vs_sleep_partial_numpy.png" alt="Partial Sleep Effect" width="400"/>
 
-**Multiple regression summary:** see `results/ols_summary.txt`.  
+**Multiple regression summary:** see `results/ols_summary.txt`.   
 
 ---
 
