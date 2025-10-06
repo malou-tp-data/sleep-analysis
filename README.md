@@ -41,20 +41,38 @@ Therefore, while sleep is crucial for overall cognitive health, this analysis sh
 
 ### Reaction Time Tasks
 <p align="center">
-  <img src="figures/sleep_vs_stroop.png" alt="Sleep vs Stroop" width="350"/>
-  <img src="figures/sleep_vs_pvt.png" alt="Sleep vs PVT" width="350"/>
+  <figure style="display:inline-block; margin:10px;">
+    <figcaption align="center"><b>Sleep Hours vs Stroop Task Reaction Time</b></figcaption>
+    <img src="figures/sleep_vs_stroop.png" alt="Stroop" width="350"/>
+  </figure>
+  <figure style="display:inline-block; margin:10px;">
+    <figcaption align="center"><b>Sleep Hours vs PVT Reaction Time</b></figcaption>
+    <img src="figures/sleep_vs_pvt.png" alt="PVT" width="350"/>
+  </figure>
 </p>
 
 ### N-Back Accuracy Checks
 <p align="center">
-  <img src="figures/sleep_vs_nback_check.png" alt="N-Back vs Sleep (check)" width="350"/>
-  <img src="figures/nback_by_gender.png" alt="N-Back by Gender" width="350"/>
+  <figure style="display:inline-block; margin:10px;">
+    <figcaption align="center"><b>N-Back vs Sleep (Check)</b></figcaption>
+    <img src="figures/sleep_vs_nback_check.png" alt="NBack Check" width="350"/>
+  </figure>
+  <figure style="display:inline-block; margin:10px;">
+    <figcaption align="center"><b>N-Back Accuracy by Gender</b></figcaption>
+    <img src="figures/nback_by_gender.png" alt="Gender" width="350"/>
+  </figure>
 </p>
 
 ### Age and Regression Effects
 <p align="center">
-  <img src="figures/nback_by_age_group.png" alt="N-Back by Age Group" width="350"/>
-  <img src="figures/nback_vs_sleep_partial_numpy.png" alt="Partial Sleep Effect" width="350"/>
+  <figure style="display:inline-block; margin:10px;">
+    <figcaption align="center"><b>N-Back Accuracy by Age Group</b></figcaption>
+    <img src="figures/nback_by_age_group.png" alt="Age Group" width="350"/>
+  </figure>
+  <figure style="display:inline-block; margin:10px;">
+    <figcaption align="center"><b>Partial Sleep Effect (Regression)</b></figcaption>
+    <img src="figures/nback_vs_sleep_partial_numpy.png" alt="Partial Regression" width="350"/>
+  </figure>
 </p>
 
 **Multiple regression summary:** see `results/ols_summary.txt`.  
