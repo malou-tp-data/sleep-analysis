@@ -38,7 +38,3 @@ Therefore, while sleep is crucial for overall cognitive health, this analysis sh
 pip install pandas seaborn matplotlib scipy  
 python3 analyse.py  
 
-## Next Steps
-- Test other cognitive measures (`Stroop_Task_Reaction_Time`, `PVT_Reaction_Time`)
-- Extend analysis with regression models including multiple predictors
-- Compare across different age groups or genders
