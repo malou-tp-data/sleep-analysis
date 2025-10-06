@@ -1,0 +1,15 @@
+OLS (NumPy) — Multiple regression summary
+
+Samples: 60
+
+Predictors:
+
+  - Sleep_Hours               coef = -0.7098
+  - Sleep_Quality_Score       coef = -0.1709
+  - Caffeine_Intake           coef = -1.7750
+  - Stress_Level              coef = -0.1657
+  - Age                       coef = -0.0458
+  - Gender_bin                coef = -6.4652
+
+Intercept:  93.0785
+R^2: 0.1246
