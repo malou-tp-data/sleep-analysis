@@ -39,25 +39,25 @@ Therefore, while sleep is crucial for overall cognitive health, this analysis sh
 
 ## Additional Results  
 
-### Sleep Hours vs Stroop Reaction Time
-<img src="figures/sleep_vs_stroop.png" alt="Sleep vs Stroop" width="400"/>
+### Reaction Time Tasks
+<p align="center">
+  <img src="figures/sleep_vs_stroop.png" alt="Sleep vs Stroop" width="350"/>
+  <img src="figures/sleep_vs_pvt.png" alt="Sleep vs PVT" width="350"/>
+</p>
 
-### Sleep Hours vs PVT Reaction Time
-<img src="figures/sleep_vs_pvt.png" alt="Sleep vs PVT" width="400"/>
+### N-Back Accuracy Checks
+<p align="center">
+  <img src="figures/sleep_vs_nback_check.png" alt="N-Back vs Sleep (check)" width="350"/>
+  <img src="figures/nback_by_gender.png" alt="N-Back by Gender" width="350"/>
+</p>
 
-### Sleep Hours vs N-Back Accuracy (check)
-<img src="figures/sleep_vs_nback_check.png" alt="N-Back vs Sleep (check)" width="400"/>
+### Age and Regression Effects
+<p align="center">
+  <img src="figures/nback_by_age_group.png" alt="N-Back by Age Group" width="350"/>
+  <img src="figures/nback_vs_sleep_partial_numpy.png" alt="Partial Sleep Effect" width="350"/>
+</p>
 
-### N-Back Accuracy by Gender
-<img src="figures/nback_by_gender.png" alt="N-Back by Gender" width="400"/>
-
-### N-Back Accuracy by Age Group
-<img src="figures/nback_by_age_group.png" alt="N-Back by Age Group" width="400"/>
-
-### Partial effect of Sleep Hours (Multiple Regression)
-<img src="figures/nback_vs_sleep_partial_numpy.png" alt="Partial Sleep Effect" width="400"/>
-
-**Multiple regression summary:** see `results/ols_summary.txt`.   
+**Multiple regression summary:** see `results/ols_summary.txt`.  
 
 ---
 
