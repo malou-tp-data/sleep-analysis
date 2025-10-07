@@ -124,7 +124,7 @@ The partial regression plot (NumPy OLS) shows that, even after adjusting for cov
 ```bash
 pip install pandas seaborn matplotlib  
 python3 analyse_v2.py  
-
+```
 ---
 
 ## Technologies
