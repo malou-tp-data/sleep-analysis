@@ -1,5 +1,13 @@
 # Sleep Hours and Cognitive Performance Analysis  
 
+## About / Context  
+This project explores the relationship between **sleep duration** and **cognitive performance**.  
+Using a dataset of 60 participants, it investigates whether the number of hours slept the previous night has a measurable effect on **working memory** (N-Back task accuracy), **reaction times** (Stroop & PVT), and subgroup differences (gender, age).  
+
+The goal is not only to practice **data analysis and visualization in Python**, but also to illustrate how sleep — a key factor in mental health and daily functioning — may (or may not) directly influence short-term cognitive tasks.  
+
+---
+
 ## Dataset  
 - File: `sleep_deprivation_dataset_detailed.csv`  
 - 60 participants, 14 variables (sleep, cognitive tasks, lifestyle measures).  
