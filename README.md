@@ -128,13 +128,15 @@ python3 analyse_v2.py
 ---
 
 ## Technologies
-- Python 3.10+
-- pandas
-- matplotlib
-- seaborn
-- numpy
+
+- **Python 3.10+** → main programming language used for the analysis.  
+- **pandas** → data handling and exploration (CSV loading, cleaning, column manipulation).  
+- **matplotlib** → figure creation and saving (style control, titles, sizes, export to `.png`).  
+- **seaborn** → statistical visualizations (histograms, scatterplots, boxplots, barplots with error bars).  
+- **numpy** → numerical computations (Pearson correlation, linear regression with `lstsq`, vector/matrix operations).  
 
 ---
+
 
 ## License
 This project is released under the MIT License.
