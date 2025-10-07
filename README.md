@@ -139,7 +139,8 @@ python3 analyse_v2.py
 
 
 ## License
-This project is released under the MIT License.
+This project is released under the MIT License. See the LICENSE file for details.
+
 
 ---
 
