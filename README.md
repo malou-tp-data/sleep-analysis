@@ -126,6 +126,7 @@ pip install pandas seaborn matplotlib
 python3 analyse_v2.py  
 
 ---
+
 ## Technologies
 - Python 3.10+
 - pandas
@@ -134,11 +135,12 @@ python3 analyse_v2.py
 - numpy
 
 ---
-## Licence
+
+## License
 This project is released under the MIT License.
 
 ---
-## Author 
+
+## Author
 Project by [malou-tp-data](https://github.com/malou-tp-data)
 
----
