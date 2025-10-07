@@ -12,6 +12,8 @@
 - Multiple regression (NumPy implementation)  
 - Subgroup comparisons (gender, age groups)  
 
+---
+
 ## Results (Main)  
 
 ### Sleep Hours distribution
@@ -24,6 +26,8 @@
 <img src="figures/sleep_vs_n_back_accuracy_trend.png" alt="Linear Trend" width="400"/>
 
 **Correlation Sleep_Hours vs N_Back_Accuracy = -0.118**  
+
+---
 
 ## Interpretation (Main)  
 
@@ -51,6 +55,11 @@ Therefore, while sleep is crucial for overall cognitive health, this analysis sh
   </figure>
 </p>
 
+**Interpretation.** Both Stroop and PVT reaction times show no clear linear trend with sleep hours.  
+Effect sizes are minimal, suggesting that variability is driven more by day-to-day noise or individual differences than by sleep duration.  
+
+---
+
 ### N-Back Accuracy Checks
 <p align="center">
   <figure style="display:inline-block; margin:10px;">
@@ -63,6 +72,11 @@ Therefore, while sleep is crucial for overall cognitive health, this analysis sh
   </figure>
 </p>
 
+**Interpretation.** The N-Back vs Sleep “check” plot confirms the weak and inconsistent relationship seen earlier.  
+The gender barplot shows small mean differences between male and female participants, but these gaps are modest and should be considered exploratory.  
+
+---
+
 ### Age and Regression Effects
 <p align="center">
   <figure style="display:inline-block; margin:10px;">
@@ -74,6 +88,11 @@ Therefore, while sleep is crucial for overall cognitive health, this analysis sh
     <img src="figures/nback_vs_sleep_partial_numpy.png" alt="Partial Regression" width="350"/>
   </figure>
 </p>
+
+**Interpretation.** The boxplot indicates slight variability in N-Back performance across age groups, though differences remain small.  
+The partial regression plot (NumPy OLS) shows that, even after adjusting for covariates (sleep quality, stress, caffeine, age, gender), sleep hours explain very little variance in N-Back accuracy.  
+
+---
 
 **Multiple regression summary:** see `results/ols_summary.txt`.  
 
