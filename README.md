@@ -44,7 +44,7 @@ This indicates that participants who slept slightly less did not systematically 
 The effect size is so small that it is likely explained by random variation rather than a meaningful trend.  
 
 This suggests that, in this dataset, sleep duration alone does not have a strong impact on working memory performance.  
-It is possible that other variables — such as sleep quality, stress levels, or individual differences in cognitive capacity — play a more important role.  
+It is possible that other variables such as sleep quality, stress levels, or individual differences in cognitive capacity play a more important role.  
 Therefore, while sleep is crucial for overall cognitive health, this analysis shows that its direct effect on short-term working memory (as measured by the N-Back task) may be limited in this sample.  
 
 ---
