@@ -4,7 +4,7 @@
 This project explores the relationship between **sleep duration** and **cognitive performance**.  
 Using a dataset of 60 participants, it investigates whether the number of hours slept the previous night has a measurable effect on **working memory** (N-Back task accuracy), **reaction times** (Stroop & PVT), and subgroup differences (gender, age).  
 
-The goal is not only to practice **data analysis and visualization in Python**, but also to illustrate how sleep — a key factor in mental health and daily functioning — may (or may not) directly influence short-term cognitive tasks.  
+The goal is not only to practice **data analysis and visualization in Python**, but also to illustrate how sleep a key factor in mental health and daily functioning may (or may not) directly influence short-term cognitive tasks.  
 
 ---
 
@@ -64,7 +64,7 @@ Therefore, while sleep is crucial for overall cognitive health, this analysis sh
 </p>
 
 **Interpretation.** Both Stroop and PVT reaction times show no clear linear trend with sleep hours.  
-Effect sizes are minimal, suggesting that variability is driven more by day-to-day noise or individual differences than by sleep duration.  
+Effect sizes are minimal, suggesting that variability is driven more by day to day noise or individual differences than by sleep duration.  
 
 ---
 
